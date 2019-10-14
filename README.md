@@ -37,8 +37,7 @@
 ## ![mysql_logo](images/mysql_logo.png) Mysql
 
 1. **[分库分表来实现不迁移](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483763&idx=1&sn=9ec842f1c5578069cbc28a4d6b09bb3a&chksm=e8ee1b0bdf99921d1b21b2b91cbfd0702f5c1c34bdce498be6bda8c6da9ecd1bf89272c482fb&token=1128304733&lang=zh_CN#rd)**
-
-
+2. **[8 种你正在写错的 SQL 语法](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&tempkey=MTAzMF9zakg5eXlaS1pteUkxKzdKXzF3bDgwMkRhUDJ0YzU4LVR4MGZEaWdJYXp2Uy03N19QT25ZMjhkaWxCUmtCa2tEaFZhUlhCMWc4akN6Z2JDWklZX3FnVTlpV3FKRHBSb1dOcTBJb2NiNUwzYkRfTXFaMldkdzRqMVc5NTlwMXBFcUJ5V0VMZElzTzg2M2lBaWh0ZG5NVngyXzBtMzBwNTNNaEhLcDJ3fn4%3D&chksm=68ee1bd55f9992c363d87de293afd43501dfd396927f9510f6ddda4d19fb42f2dcce9ea0ed14#rd)**
 
 
 
