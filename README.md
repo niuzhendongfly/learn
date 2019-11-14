@@ -2,10 +2,15 @@
 
 关注公众号：jnkjnl。让我们一起进步，在学习中感受快乐！
 
+
+
 ## ![](images/java_logo.jpg) Java 基础
 
 1. [**十大经典排序算法最强总结**](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483790&idx=1&sn=df53657605e02dea480ab08928fc57c0&chksm=e8ee1bf6df9992e01718ab519520a46977ea52df63c739c298503321e3babac315e2d5bb0df7&token=1716705143&lang=zh_CN#rd)
 2. **[Java 开发中常用的 4 种加密方法](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483827&idx=1&sn=1996c2f593783e808817babee2a7e822&chksm=e8ee1bcbdf9992dd45ec12b697634326271615beef50700db5eb5e46d91aa731b14ada4e2e75&token=408633767&lang=zh_CN#rd)**
+3. **[“短链接”介绍及实现](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483846&idx=1&sn=5db337ea880fa244470323918c5490b9&chksm=e8ee1bbedf9992a8e1f4e567c8192ebf0d1d9f4052f4f4cf53e09bb968a3669d2489717bab70&token=1367074363&lang=zh_CN#rd)**
+
+
 
 
 
@@ -41,9 +46,13 @@
 
 
 
+
+
 ## ![redis_logo](images/redis_logo.png) Redis
 
 1. **[分享几个常见的 Redis 面试题](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483771&idx=1&sn=71cc23d998d8d15d245fd847c1446942&chksm=e8ee1b03df999215d920c00f278d467b932fd55b01b965f95acca02bf63d9355dde5c55dcf27&token=1128304733&lang=zh_CN#rd)**
+
+
 
 
 
