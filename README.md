@@ -73,7 +73,16 @@
 
 
 
+## <img src="images/elasticsearch_logo.png" alt="elasticsearch_logo" style="zoom:80%;" />Elasticsearch
+
+1. **[破解版 elasticsearch docker 镜像](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483868&idx=1&sn=e06680b2e47ad102ee9a1d4d51450c13&chksm=e8ee1ba4df9992b2ea3505728d1e0601b54395ef1adbc2b2eeaa43e6fa699f288ec1948d6be8&token=1402633157&lang=zh_CN#rd)**
+2. **[docker 方式部署带用户权限管理的 elasticsearch 集群和 kibana](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483872&idx=1&sn=5026140ff35472a6cacc86641b377ea5&chksm=e8ee1b98df99928e381604efd22834e04f820d3b444c05f5e7248950932ede632953d4c09328&token=1402633157&lang=zh_CN#rd)**
+
+
+
+
+
 ## ![](images/other_logo.jpg) 其它
 
 1. **[推荐 10 个堪称神器的网站](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483850&idx=1&sn=e51ccb17a6379adda1001249dfa7b0f0&chksm=e8ee1bb2df9992a48efcbd9c407a4c7e2929734e421ec8b5a40d78e7358de89e02c3c0127655&token=962470132&lang=zh_CN#rd)**
-
+2. **[12306 的架构到底有多牛逼？](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483892&idx=1&sn=73bfa90ae3475da9701892503de738df&chksm=e8ee1b8cdf99929ac472bb1e3dc1dd115189c34a8a58a9bd778cda904ffca686e44d40ad87ed&token=1402633157&lang=zh_CN#rd)**
