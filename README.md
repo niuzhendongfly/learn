@@ -73,7 +73,7 @@
 
 
 
-## <img src="images/elasticsearch_logo.png" alt="elasticsearch_logo" style="zoom:80%;" />Elasticsearch
+## <img src="images/elasticsearch_logo.png" alt="elasticsearch_logo"/>Elasticsearch
 
 1. **[破解版 elasticsearch docker 镜像](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483868&idx=1&sn=e06680b2e47ad102ee9a1d4d51450c13&chksm=e8ee1ba4df9992b2ea3505728d1e0601b54395ef1adbc2b2eeaa43e6fa699f288ec1948d6be8&token=1402633157&lang=zh_CN#rd)**
 2. **[docker 方式部署带用户权限管理的 elasticsearch 集群和 kibana](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483872&idx=1&sn=5026140ff35472a6cacc86641b377ea5&chksm=e8ee1b98df99928e381604efd22834e04f820d3b444c05f5e7248950932ede632953d4c09328&token=1402633157&lang=zh_CN#rd)**
