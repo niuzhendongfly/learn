@@ -76,6 +76,7 @@
 ## ![](images/tools_logo.png) 工具使用
 
 1. **[IDEA 应该加这些配置](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483780&idx=1&sn=7c41b82b709a2fd7f1ac6200e0935a09&chksm=e8ee1bfcdf9992eaffdba0477ce59ca39805c249ea01f2527473f92de52df3f56001da64e153&token=240401638&lang=zh_CN#rd)**
+2. **[终于可以告别单调的 swagger-ui 了，选择了它 —— knife4j](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483919&idx=1&sn=618a3c8974d37d13983cc753c4b0ca6c&chksm=e8ee1877df99916179283c2d7e54020cb7af4f21b7f085195e0e437c3797f825a3d3e1f186ee&token=1992035891&lang=zh_CN#rd)**
 
 
 
