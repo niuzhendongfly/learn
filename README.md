@@ -26,6 +26,7 @@
 ## ![spring_boot_logo](images/spring_boot_logo.jpg) Spring Boot
 
 1. **[SpringBoot 的 banner.txt](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483896&idx=1&sn=ffd638ac7c772eefa0157c0a1e963cad&chksm=e8ee1b80df9992963bf5722d768ed2a6ee97e26299c19ac11d1c8146feca8c8e770e3033d9a5&token=714336520&lang=zh_CN#rd)**
+2. **[绝了！Dataway 让 Spring Boot 不再需要 Controller、Service、DAO、Mapper](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483949&idx=1&sn=15f67019c81d475dd548c4567f39d7d7&chksm=e8ee1855df999143e67a146aa19c379ca9c017620a411d8ce2f0296fd97012b927da7baf8c8d&token=797830367&lang=zh_CN#rd)**
 
 
 
