@@ -10,6 +10,7 @@
 2. **[Java 开发中常用的 4 种加密方法](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483827&idx=1&sn=1996c2f593783e808817babee2a7e822&chksm=e8ee1bcbdf9992dd45ec12b697634326271615beef50700db5eb5e46d91aa731b14ada4e2e75&token=408633767&lang=zh_CN#rd)**
 3. **[“短链接”介绍及实现](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483846&idx=1&sn=5db337ea880fa244470323918c5490b9&chksm=e8ee1bbedf9992a8e1f4e567c8192ebf0d1d9f4052f4f4cf53e09bb968a3669d2489717bab70&token=1367074363&lang=zh_CN#rd)**
 4. **[Java 的 JSP 已经被淘汰了吗？](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483855&idx=1&sn=44918a35c76664ec638234bef27809bf&chksm=e8ee1bb7df9992a11b75762f77ba1af8694286d98316ac9c5d77543fde8a7a5cf5b32f08d6e5&token=1331035447&lang=zh_CN#rd)**
+5. **[35 个 Java 代码优化的细节](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483996&idx=1&sn=711b324be911f858de88b9e440d80c61&chksm=e8ee1824df99913205f674816dc19e3053755263b41694f078924cb55d7ada48e6332edbf28f&token=1949393215&lang=zh_CN#rd)**
 
 
 
