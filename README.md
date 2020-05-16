@@ -62,6 +62,7 @@
 1. **[分库分表来实现不迁移](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483763&idx=1&sn=9ec842f1c5578069cbc28a4d6b09bb3a&chksm=e8ee1b0bdf99921d1b21b2b91cbfd0702f5c1c34bdce498be6bda8c6da9ecd1bf89272c482fb&token=1128304733&lang=zh_CN#rd)**
 2. **[8 种你正在写错的 SQL 语法](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483822&idx=1&sn=ff15d9bc36a3bfa08011f535952aaa81&chksm=e8ee1bd6df9992c0556037001f8b30f1268856ee9631ba40e81efe670a2a25787cfab47496dd&token=594738703&lang=zh_CN#rd)**
 3. **[Mysql 事务、四个特性和四种隔离级别解读](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483837&idx=1&sn=18ac1c1d704bef13e04b5995c930c676&chksm=e8ee1bc5df9992d3348444936154ce5dbbe8db80762282a330fa30728753161ca2d676b17474&token=408633767&lang=zh_CN#rd)**
+4. **[Mysql 优化方案大纲](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484015&idx=1&sn=89fdd931fc92464e0795e5ed10118b40&chksm=e8ee1817df999101edce6d9b3f9c5b8c633fbdf0376e12f4ae386b655684c00280610f499d24&token=1949393215&lang=zh_CN#rd)**
 
 
 
