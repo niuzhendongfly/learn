@@ -109,6 +109,7 @@
 11. **[Redis 性能问题分析（好文推荐）](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484769&idx=1&sn=bebcd567e412fffe884253caf0569076&chksm=e8ee1f19df99960f60a2c53664935797fa9ebdfb2e6fc642bffa24322a6257c390ec5534f3e8&token=1935534020&lang=zh_CN#rd)**
 12. **[这些 Redis 面试题虽然简单，但是面试常常问到](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484784&idx=1&sn=e1e3316912e0b36f74715df16d072849&chksm=e8ee1f08df99961e8b068a0bafd3d99d9c190f7a6ca8ca1ebe2fd3c8097f8c8b5163502ba3e7&token=1935534020&lang=zh_CN#rd)**
 13. **[公司内部 Redis 使用规范](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485020&idx=1&sn=4c09bc2d7b700d8e2efded8b8d4b397d&chksm=e8ee1c24df99953220c9d0f83d4f83879e65fac41fae69c6e6d960f217d2b879f4a5afefaa2a&token=1935534020&lang=zh_CN#rd)**
+14. **[Redis 搭建集群之准备节点、节点握手、分配槽](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485086&idx=1&sn=bf4860cc753bac3eab5c63090dfd9dfe&chksm=e8ee1ce6df9995f04b1a385b2c81dd2f534d73d92172cae1cda7400f5c872890e69cead49e0c&token=1633719325&lang=zh_CN#rd)**
 
 
 
