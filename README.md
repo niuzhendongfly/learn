@@ -110,6 +110,7 @@
 12. **[这些 Redis 面试题虽然简单，但是面试常常问到](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484784&idx=1&sn=e1e3316912e0b36f74715df16d072849&chksm=e8ee1f08df99961e8b068a0bafd3d99d9c190f7a6ca8ca1ebe2fd3c8097f8c8b5163502ba3e7&token=1935534020&lang=zh_CN#rd)**
 13. **[公司内部 Redis 使用规范](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485020&idx=1&sn=4c09bc2d7b700d8e2efded8b8d4b397d&chksm=e8ee1c24df99953220c9d0f83d4f83879e65fac41fae69c6e6d960f217d2b879f4a5afefaa2a&token=1935534020&lang=zh_CN#rd)**
 14. **[Redis 搭建集群之准备节点、节点握手、分配槽](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485086&idx=1&sn=bf4860cc753bac3eab5c63090dfd9dfe&chksm=e8ee1ce6df9995f04b1a385b2c81dd2f534d73d92172cae1cda7400f5c872890e69cead49e0c&token=1633719325&lang=zh_CN#rd)**
+15. **[Redis 集群伸缩之伸缩原理、集群扩容、集群收缩](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485176&idx=1&sn=7e5a286bba8fa82ac48b4e415ba544c6&chksm=e8ee1c80df999596cd7bed0dab55e897cb5911a6cbf26d631fdc1df50fd501b87e5b3286898e&token=1343470564&lang=zh_CN#rd)**
 
 
 
@@ -144,4 +145,5 @@
 1. **[推荐 10 个堪称神器的网站](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483850&idx=1&sn=e51ccb17a6379adda1001249dfa7b0f0&chksm=e8ee1bb2df9992a48efcbd9c407a4c7e2929734e421ec8b5a40d78e7358de89e02c3c0127655&token=962470132&lang=zh_CN#rd)**
 2. **[12306 的架构到底有多牛逼？](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483892&idx=1&sn=73bfa90ae3475da9701892503de738df&chksm=e8ee1b8cdf99929ac472bb1e3dc1dd115189c34a8a58a9bd778cda904ffca686e44d40ad87ed&token=1402633157&lang=zh_CN#rd)**
 3. **[深入理解 HTTPS 原理！](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484517&idx=1&sn=d248071ad6637e9b29047640e88dda5d&chksm=e8ee1e1ddf99970bd458661c3d739820219d7f36eeac15fc0b4d837a35caa9619e9618a078de&token=1935534020&lang=zh_CN#rd)**
+4. **[10 个常见的软件架构模式](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485246&idx=1&sn=841160fc53d9d81e95279d78f34d6c27&chksm=e8ee1d46df999450fb32f21c7a93ebf8eeaa466f5162eb6fb4f893f986f6b745bc1103cfc45e&token=1343470564&lang=zh_CN#rd)**
 
