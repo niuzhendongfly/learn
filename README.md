@@ -89,6 +89,7 @@
 6. **[针对 MySQL 事务的面试对话](http://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484362&idx=1&sn=7d5a6ec58f345a17085b41b17697100d&chksm=e8ee19b2df9990a4a91df93625e9c8c313d0b558e4f9788f76bdef4934aef43db86044abcabe&token=1935534020&lang=zh_CN#rd)**
 7. **[大厂面试官必问的 MySQL 锁机制](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484845&idx=1&sn=e33e7d9a088424f8f0f2bea54dbe7860&chksm=e8ee1fd5df9996c3ddda55c6ac5d25cafe7a9c4de4df5eb29a26697bfc586c57786a7b40db8f&token=1935534020&lang=zh_CN#rd)**
 8. **[基于 Docker 的 MySQL 主从复制环境搭建](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485039&idx=1&sn=5b4e870b5edd7f5bd7a3fe0244ba71e3&chksm=e8ee1c17df9995014481084951c9e8b8bebbf38267257a4334d249e37133b1672d8d4c417c07&token=1935534020&lang=zh_CN#rd)**
+9. **[什么是图数据库？有哪些应用场景？](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485265&idx=1&sn=bda56516281353ffe9101ecc966ebb07&chksm=e8ee1d29df99943f102fde5a0c10fa8b052327981f92a38de7925f99de6d626908416bbe1faa&token=634599148&lang=zh_CN#rd)**
 
 
 
