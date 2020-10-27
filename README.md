@@ -26,6 +26,7 @@
 18. **[JVM GC 调优](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484576&idx=1&sn=ffdec06955ab2222f9df823f105aab7e&chksm=e8ee1ed8df9997ce5d10a847786632ce641cf48ef8d2b6ddf95357b632220ca69c5892e7229e&token=1935534020&lang=zh_CN#rd)**
 19. **[如何优雅的根治 null 值引起的 Bug！](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484606&idx=1&sn=5b795dd9e073fdf9b2f0a9da8be9e8e2&chksm=e8ee1ec6df9997d0b4c1eb8099caa095e164c2866086cb5bfc0ee94f4cdd3b414c9944e3bfd7&token=1935534020&lang=zh_CN#rd)**
 20. **[Java 内存区域详解](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484881&idx=1&sn=e17c4ac68b6eea7d560510f9d0fa8442&chksm=e8ee1fa9df9996bf2ee96e104752642272b995019f6245c8e3e6d60130b76a9927dc5cdfdbe3&token=1935534020&lang=zh_CN#rd)**
+21. **[Date 类型还在用吗？建议使用 LocalDateTime](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485287&idx=1&sn=bca3c6f376c28a2f545171532c0c76e4&chksm=e8ee1d1fdf9994095ffb40bdba4e73103da3894c81938c5ee5959b55a5c66673843c1c38ce09&token=1782727763&lang=zh_CN#rd)**
 
 
 
