@@ -149,4 +149,5 @@
 3. **[深入理解 HTTPS 原理！](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484517&idx=1&sn=d248071ad6637e9b29047640e88dda5d&chksm=e8ee1e1ddf99970bd458661c3d739820219d7f36eeac15fc0b4d837a35caa9619e9618a078de&token=1935534020&lang=zh_CN#rd)**
 4. **[10 个常见的软件架构模式](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485246&idx=1&sn=841160fc53d9d81e95279d78f34d6c27&chksm=e8ee1d46df999450fb32f21c7a93ebf8eeaa466f5162eb6fb4f893f986f6b745bc1103cfc45e&token=1343470564&lang=zh_CN#rd)**
 5. **[RPC 调用和 HTTP 调用的区别？](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485277&idx=1&sn=5cb0e6aa79591971c33bcfb6c8f151fc&chksm=e8ee1d25df99943306412e15d7e276deea4ccda7275d95ac6428cdca5e94205f5bb9abc49ab8&token=444215840&lang=zh_CN#rd)**
+6. **[QPS、TPS、RT、并发数、吞吐量理解和性能优化深入思考](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485320&idx=1&sn=febd72b2a997bd24f0a967945c4cd2b2&chksm=e8ee1df0df9994e60fa396466f59e552ebae4b0b2fc10bb1e1c14bcf4689884601812b0f6003&token=1699715742&lang=zh_CN#rd)**
 
