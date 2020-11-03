@@ -59,6 +59,7 @@
 ## ![](images/spring_cloud_logo.jpg) Spring Cloud
 
 1. **[Spring Cloud Eureka 简介和代码实现](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483863&idx=1&sn=52e65861f6bb09caeafc7df8a0a9c338&chksm=e8ee1bafdf9992b97635b76dd92eb1dd1fa0afc28fd4720db2eb28c045e4a9e81f73c8967e7f&token=1488902983&lang=zh_CN#rd)**
+2. **[从零搭建 Spring Cloud 服务（超级详细）](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485436&idx=1&sn=14b075b7ec763aa0d679978d899e6ab0&chksm=e8ee1d84df999492b798b0fa6db5cef41fbbbaf1029754afd3e2442af0b904bc686dd7e57ebc&token=212153992&lang=zh_CN#rd)**
 
 
 
