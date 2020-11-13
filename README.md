@@ -28,6 +28,8 @@
 20. **[Java 内存区域详解](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484881&idx=1&sn=e17c4ac68b6eea7d560510f9d0fa8442&chksm=e8ee1fa9df9996bf2ee96e104752642272b995019f6245c8e3e6d60130b76a9927dc5cdfdbe3&token=1935534020&lang=zh_CN#rd)**
 21. **[Date 类型还在用吗？建议使用 LocalDateTime](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485287&idx=1&sn=bca3c6f376c28a2f545171532c0c76e4&chksm=e8ee1d1fdf9994095ffb40bdba4e73103da3894c81938c5ee5959b55a5c66673843c1c38ce09&token=1782727763&lang=zh_CN#rd)**
 22. **[选择 HashMap 还是 TreeMap？](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485558&idx=1&sn=f97ed8a775608b39c37dd784c2bdfc07&chksm=e8ee120edf999b184ca85a609e86a5e75eeebd0d1f2a8c0e02e92d7c2e919a589ff370eecf75&token=110248874&lang=zh_CN#rd)**
+23. **[读完《Effective Java》：我整理了 50 条技巧](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485568&idx=1&sn=19b0e5b74b0d99088502a002de57ca13&chksm=e8ee12f8df999bee23164c2a3b75e97bf53e2b4410a2df738af8a3165253fdec2bfd09ac21ff&token=549837218&lang=zh_CN#rd)**
+24. **[面试官：面对千万级、亿级流量怎么处理？](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485636&idx=1&sn=d1f2396afd476b2cc1b57ce38ad30534&chksm=e8ee12bcdf999baaa1d0565ec319f6c330abc85822c2504092d6450e38ce0f7876065f46da10&token=549837218&lang=zh_CN#rd)**
 
 
 
