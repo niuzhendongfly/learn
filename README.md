@@ -128,6 +128,7 @@
 2. **[终于可以告别单调的 swagger-ui 了，选择了它 —— knife4j](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247483919&idx=1&sn=618a3c8974d37d13983cc753c4b0ca6c&chksm=e8ee1877df99916179283c2d7e54020cb7af4f21b7f085195e0e437c3797f825a3d3e1f186ee&token=1992035891&lang=zh_CN#rd)**
 3. **[Lombok 是让你代码处于“亚健康”状态的真正元凶](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484493&idx=1&sn=e809b0e3504f58d76339069bdc96bda9&chksm=e8ee1e35df999723d170981565665f64276b6b4729f08740d651b76010cbe2d208a8db4fda05&token=1935534020&lang=zh_CN#rd)**
 4. **[程序员绘图工具——PlantUML](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247484912&idx=1&sn=d01c01849f63fb0e9c403809d5c39750&chksm=e8ee1f88df99969e03197b645418ec3878066ca72c1cfc38b79a1111980648a481768cf154a3&token=1935534020&lang=zh_CN#rd)**
+5. **[Tomcat 架构原理解析到架构设计借鉴](https://mp.weixin.qq.com/s?__biz=MzIzNDkwMTI3MQ==&mid=2247485711&idx=1&sn=0af299cf1d68306d19788809156f610f&chksm=e8ee1377df999a61f17b10a605ae28029e9e9e8e55586b647d1fdf4b3ea490bb05262b3cd66f&token=1692291797&lang=zh_CN#rd)**
 
 
 
